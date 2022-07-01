@@ -2,6 +2,10 @@
 
 update error profile to include longer k-mers 
 
+
+
+
+
 ## Installation
 
 ```
