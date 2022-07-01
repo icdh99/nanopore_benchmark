@@ -1,6 +1,6 @@
 # Nanopore Benchmark for Basecallers
 
-update for longer k-mer error profile
+update error profile to include longer k-mers 
 
 ## Installation
 
